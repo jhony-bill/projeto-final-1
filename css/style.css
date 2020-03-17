@@ -16,6 +16,7 @@ body {
 	font-family: "Open Sans", sans-serif;
 	-webkit-font-smoothing: antialiased;
 	font-smoothing: antialiased;
+	background-color: rgb(248, 74, 74);
 }
 
 h1,
@@ -1338,4 +1339,7 @@ Responsive
 	.menu-social a {
 		margin-right: 15px;
 	}
+}
+.copyright{
+	background-color: rgba(130, 130, 130, 0.29);
 }
